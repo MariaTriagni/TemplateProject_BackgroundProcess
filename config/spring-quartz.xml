@@ -32,7 +32,7 @@
                 class="org.springframework.scheduling.quartz.SimpleTriggerFactoryBean">
 
 		<property name="jobDetail" ref="testJob" />
-		<property name="repeatInterval" value="1000" />
+		<property name="repeatInterval" value="5000" />
 		<property name="startDelay" value="1000" />
 
 	</bean>

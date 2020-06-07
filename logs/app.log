@@ -1,34 +1,151 @@
-[INFO ] 2020-06-06 11:33:42.363 [main] Application - Starting Application on LAPTOP-34EQJ6PK with PID 7044 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\classes started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
-[DEBUG] 2020-06-06 11:33:42.368 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
-[INFO ] 2020-06-06 11:33:42.369 [main] Application - No active profile set, falling back to default profiles: default
-[INFO ] 2020-06-06 11:33:44.188 [main] Application - Started Application in 2.138 seconds (JVM running for 3.099)
-[INFO ] 2020-06-06 11:33:44.189 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
-[INFO ] 2020-06-06 11:33:44.194 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
-[INFO ] 2020-06-06 11:33:44.200 [main] Application - Logging info is on
-[DEBUG] 2020-06-06 11:33:44.200 [main] Application - Logging debug is on
-[WARN ] 2020-06-06 11:33:44.200 [main] Application - Logging warn is on
-[ERROR] 2020-06-06 11:33:44.200 [main] Application - Logging error is on
-[INFO ] 2020-06-06 11:33:45.295 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:33:50.288 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:33:55.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:34:00.290 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:34:05.290 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:34:10.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-6] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:34:15.290 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-7] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:34:20.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-8] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:34:25.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-9] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 11:34:30.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-10] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 17:50:21.997 [main] Application - Starting Application on LAPTOP-34EQJ6PK with PID 14216 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\classes started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
-[DEBUG] 2020-06-06 17:50:22.007 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
-[INFO ] 2020-06-06 17:50:22.008 [main] Application - No active profile set, falling back to default profiles: default
-[INFO ] 2020-06-06 17:50:24.936 [main] Application - Started Application in 3.571 seconds (JVM running for 4.874)
-[INFO ] 2020-06-06 17:50:24.937 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
-[INFO ] 2020-06-06 17:50:24.937 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
-[INFO ] 2020-06-06 17:50:24.946 [main] Application - Logging info is on
-[DEBUG] 2020-06-06 17:50:24.946 [main] Application - Logging debug is on
-[WARN ] 2020-06-06 17:50:24.946 [main] Application - Logging warn is on
-[ERROR] 2020-06-06 17:50:24.946 [main] Application - Logging error is on
-[INFO ] 2020-06-06 17:50:26.165 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 17:50:31.157 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 17:50:36.155 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
-[INFO ] 2020-06-06 17:50:41.155 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:30.838 [main] Application - Starting Application on LAPTOP-34EQJ6PK with PID 10396 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\classes started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:22:30.846 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:22:30.847 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:22:33.330 [main] Application - Started Application in 2.939 seconds (JVM running for 4.283)
+[INFO ] 2020-06-06 22:22:33.331 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:22:33.352 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
+[INFO ] 2020-06-06 22:22:33.360 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:22:33.360 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:22:33.360 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:22:33.360 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:22:34.500 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:35.489 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:36.487 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:37.488 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:38.487 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:39.487 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-6] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:40.487 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-7] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:41.487 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-8] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:22:42.487 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-9] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:29:15.988 [main] Application - Starting Application on LAPTOP-34EQJ6PK with PID 15036 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\classes started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:29:16.000 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:29:16.000 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:29:19.198 [main] Application - Started Application in 3.781 seconds (JVM running for 5.599)
+[INFO ] 2020-06-06 22:29:19.200 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:29:19.200 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
+[INFO ] 2020-06-06 22:29:19.207 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:29:19.207 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:29:19.208 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:29:19.208 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:29:20.366 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:29:21.355 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:29:22.354 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:29:23.354 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:29:24.354 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:29:25.354 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-6] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:29:26.354 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-7] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:34:55.709 [main] Application - Starting Application on LAPTOP-34EQJ6PK with PID 17016 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\classes started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:34:55.716 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:34:55.717 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:34:58.765 [main] Application - Started Application in 3.637 seconds (JVM running for 5.335)
+[INFO ] 2020-06-06 22:34:58.767 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:34:58.767 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
+[INFO ] 2020-06-06 22:34:58.776 [main] Application - QuartzProperties [configFile=classpath:spring-quartz.xml]
+[INFO ] 2020-06-06 22:34:58.776 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:34:58.776 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:34:58.776 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:34:58.776 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:34:59.937 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:35:00.923 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:03.124 [main] Application - Starting Application on LAPTOP-34EQJ6PK with PID 17488 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\classes started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:37:03.139 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:37:03.140 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:37:06.044 [main] Application - Started Application in 3.425 seconds (JVM running for 4.976)
+[INFO ] 2020-06-06 22:37:06.046 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:37:06.046 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:37:06.046 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:37:06.047 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:37:06.047 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:37:06.047 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
+[INFO ] 2020-06-06 22:37:06.053 [main] Application - QuartzProperties [configFile=classpath:spring-quartz.xml]
+[INFO ] 2020-06-06 22:37:07.231 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:08.218 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:09.218 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:10.218 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:11.219 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:12.219 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-6] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:13.219 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-7] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:14.217 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-8] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:37:15.219 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-9] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:40:03.923 [main] Application - Starting Application v0.0.1-SNAPSHOT on LAPTOP-34EQJ6PK with PID 9296 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\ssts-0.0.1-SNAPSHOT.jar started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:40:03.943 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:40:03.944 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:40:07.405 [main] Application - Started Application in 4.703 seconds (JVM running for 6.648)
+[INFO ] 2020-06-06 22:40:07.408 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:40:07.409 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:40:07.414 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:40:07.415 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:40:07.415 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:40:07.419 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
+[INFO ] 2020-06-06 22:40:07.432 [main] Application - QuartzProperties [configFile=classpath:spring-quartz.xml]
+[INFO ] 2020-06-06 22:40:08.612 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:40:09.602 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:40:10.601 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:40:11.601 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:40:12.601 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:40:13.600 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-6] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:40:14.600 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-7] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:40:15.601 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-8] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:42:50.489 [main] Application - Starting Application v0.0.1-SNAPSHOT on LAPTOP-34EQJ6PK with PID 16144 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\ssts-0.0.1-SNAPSHOT.jar started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:42:50.518 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:42:50.519 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:42:53.746 [main] Application - Started Application in 4.169 seconds (JVM running for 6.399)
+[INFO ] 2020-06-06 22:42:53.748 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:42:53.749 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:42:53.754 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:42:53.754 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:42:53.755 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:42:53.756 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
+[INFO ] 2020-06-06 22:42:53.766 [main] Application - QuartzProperties [configFile=classpath:spring-quartz.xml]
+[INFO ] 2020-06-06 22:42:54.928 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:42:55.918 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:42:56.916 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:42:57.917 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:42:58.919 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:42:59.917 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-6] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:43:00.917 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-7] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:43:26.628 [main] Application - Starting Application v0.0.1-SNAPSHOT on LAPTOP-34EQJ6PK with PID 14784 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\ssts-0.0.1-SNAPSHOT.jar started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:43:26.643 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:43:26.646 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:43:29.421 [main] Application - Started Application in 3.642 seconds (JVM running for 5.535)
+[INFO ] 2020-06-06 22:43:29.423 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:43:29.424 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:43:29.428 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:43:29.428 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:43:29.429 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:43:29.430 [main] Application - GlobalProperties{threadPool=500, email='m.triagni4@gmail.com'}
+[INFO ] 2020-06-06 22:43:29.444 [main] Application - QuartzProperties [configFile=config//spring-quartz.xml]
+[INFO ] 2020-06-06 22:43:30.613 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:43:31.598 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:43:32.596 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:43:33.596 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:43:34.595 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:44:17.656 [main] Application - Starting Application v0.0.1-SNAPSHOT on LAPTOP-34EQJ6PK with PID 16312 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\ssts-0.0.1-SNAPSHOT.jar started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:44:17.674 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:44:17.676 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:44:20.324 [main] Application - Started Application in 3.519 seconds (JVM running for 5.45)
+[INFO ] 2020-06-06 22:44:20.327 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:44:20.327 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:44:20.331 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:44:20.331 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:44:20.332 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:44:20.333 [main] Application - GlobalProperties{threadPool=1000, email='m.triagni10@gmail.com'}
+[INFO ] 2020-06-06 22:44:20.345 [main] Application - QuartzProperties [configFile=config//spring-quartz.xml]
+[INFO ] 2020-06-06 22:44:21.499 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:44:22.481 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:44:23.481 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:44:24.480 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:44:57.952 [main] Application - Starting Application v0.0.1-SNAPSHOT on LAPTOP-34EQJ6PK with PID 9932 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\ssts-0.0.1-SNAPSHOT.jar started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 22:44:57.968 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 22:44:57.970 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 22:45:00.932 [main] Application - Started Application in 3.848 seconds (JVM running for 5.773)
+[INFO ] 2020-06-06 22:45:00.934 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 22:45:00.934 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 22:45:00.935 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 22:45:00.939 [main] Application - Logging error is on
+[INFO ] 2020-06-06 22:45:00.940 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 22:45:00.941 [main] Application - GlobalProperties{threadPool=1000, email='m.triagni10@gmail.com'}
+[INFO ] 2020-06-06 22:45:00.953 [main] Application - QuartzProperties [configFile=config//spring-quartz.xml]
+[INFO ] 2020-06-06 22:45:02.108 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:45:07.095 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 22:45:12.094 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..

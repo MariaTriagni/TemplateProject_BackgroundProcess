@@ -2,12 +2,12 @@ logging:
   level: 
     com.mti: DEBUG
     
-email: m.triagni@gmail.com
-thread-pool: 10
+email: m.triagni10@gmail.com
+thread-pool: 1000
 
 quartz:
-  config-file: "classpath:spring-quartz.xml"
-
+  config-file: "config//spring-quartz.xml"
+  
 app:
   menus:
     - title: Home
