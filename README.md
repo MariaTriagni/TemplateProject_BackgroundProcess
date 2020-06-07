@@ -7,3 +7,9 @@ A template project for background process. The project include below library :
 - Test Unit : JUnit
 - Logging : log4j2
 - Scheduler : Quartz
+
+To run this project , follow these steps :
+mvn clean install
+mvn spring-boot:run
+
+Check the log/app.log for the log file
