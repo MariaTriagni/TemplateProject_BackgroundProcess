@@ -1,0 +1,34 @@
+[INFO ] 2020-06-06 11:33:42.363 [main] Application - Starting Application on LAPTOP-34EQJ6PK with PID 7044 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\classes started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 11:33:42.368 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 11:33:42.369 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 11:33:44.188 [main] Application - Started Application in 2.138 seconds (JVM running for 3.099)
+[INFO ] 2020-06-06 11:33:44.189 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 11:33:44.194 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
+[INFO ] 2020-06-06 11:33:44.200 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 11:33:44.200 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 11:33:44.200 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 11:33:44.200 [main] Application - Logging error is on
+[INFO ] 2020-06-06 11:33:45.295 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:33:50.288 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:33:55.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:34:00.290 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:34:05.290 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:34:10.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-6] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:34:15.290 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-7] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:34:20.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-8] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:34:25.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-9] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 11:34:30.289 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-10] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 17:50:21.997 [main] Application - Starting Application on LAPTOP-34EQJ6PK with PID 14216 (C:\Agni\SSTS\SourceCode\ssts_jobs\target\classes started by 15412 in C:\Agni\SSTS\SourceCode\ssts_jobs)
+[DEBUG] 2020-06-06 17:50:22.007 [main] Application - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+[INFO ] 2020-06-06 17:50:22.008 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-06 17:50:24.936 [main] Application - Started Application in 3.571 seconds (JVM running for 4.874)
+[INFO ] 2020-06-06 17:50:24.937 [main] Application - AppProperties{error='/error/', menus=[Menu{name='Home', path='/', title='Home'}, Menu{name='Login', path='/login', title='Login'}], compiler=Compiler{timeout='5', outputFolder='/temp/'}}
+[INFO ] 2020-06-06 17:50:24.937 [main] Application - GlobalProperties{threadPool=10, email='m.triagni@gmail.com'}
+[INFO ] 2020-06-06 17:50:24.946 [main] Application - Logging info is on
+[DEBUG] 2020-06-06 17:50:24.946 [main] Application - Logging debug is on
+[WARN ] 2020-06-06 17:50:24.946 [main] Application - Logging warn is on
+[ERROR] 2020-06-06 17:50:24.946 [main] Application - Logging error is on
+[INFO ] 2020-06-06 17:50:26.165 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 17:50:31.157 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 17:50:36.155 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] TestTask - Running job TestTask..
+[INFO ] 2020-06-06 17:50:41.155 [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] TestTask - Running job TestTask..
