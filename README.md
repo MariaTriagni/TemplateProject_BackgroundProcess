@@ -11,5 +11,7 @@ A template project for background process. The project include below library :
 To run this project , follow these steps :
 - mvn clean install
 - mvn spring-boot:run
+  or
+  java -jar target/ssts-0.0.1-SNAPSHOT.jar
 
 Check the log/app.log for the log file
