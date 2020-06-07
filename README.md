@@ -12,6 +12,6 @@ To run this project , follow these steps :
 - mvn clean install
 - mvn spring-boot:run
 </br> or
-- java -jar target/ssts-0.0.1-SNAPSHOT.jar
+</br> java -jar target/ssts-0.0.1-SNAPSHOT.jar
 
 Check the log/app.log for the log file
